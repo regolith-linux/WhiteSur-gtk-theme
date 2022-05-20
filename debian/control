@@ -1,0 +1,13 @@
+Source: whitesur-gtk-theme
+Section: x11
+Priority: optional
+Maintainer: Regolith Linux <regolith.linux@gmail.com>
+Build-Depends: debhelper (>= 10)
+Standards-Version: 4.1.2
+Homepage: https://github.com/3ximus/whitesur-gtk-theme
+
+Package: whitesur-gtk-theme
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: WhiteSur Theme for GTK
+ A macOS BigSur-like theme for your GTK apps.
