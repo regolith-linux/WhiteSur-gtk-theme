@@ -18,7 +18,7 @@ jobs:
         id: builder
         uses: regolith-linux/actions/build-matrix@main
         with:
-          name: "${{ github.event.repository.name }}"
+          name: "whitesur-gtk-theme"
           ref: "${{ github.base_ref }}" # build for target branch of the pull request
           arch: "amd64"                 # only test on amd64 on pull requests
           stage: "unstable"
@@ -43,7 +43,7 @@ jobs:
       - name: Build Package
         uses: regolith-linux/actions/build-package@main
         with:
-          name: "${{ github.event.repository.name }}"
+          name: "whitesur-gtk-theme"
           distro: "${{ matrix.distro }}"
           codename: "${{ matrix.codename }}"
           stage: "unstable"
