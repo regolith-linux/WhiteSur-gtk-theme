@@ -1,3 +1,20 @@
+whitesur-gtk-theme (1.1-2025.02.03) focal; urgency=medium
+
+  [ Ken Gilmer ]
+  * Remove unneded upstream files, and build automation
+
+  [ Khosrow Moossavi ]
+  * chore: remove obsolete package broadcast action
+  * feat: enable github action to test pull requests
+  * feat: enable github action to publish to unstable
+  * feat: enable github action to publish to testing
+  * feat: enable github action to prepare release
+  * chore: use the hardcoded name of the repository
+  * fix: use full repository name only for building packages
+  * fix: create release tag from correct git sha
+
+ -- Regolith Linux <regolith.linux@gmail.com>  Mon, 03 Feb 2025 20:36:17 +0000
+
 whitesur-gtk-theme (1.0-2202.02.21) focal; urgency=medium
 
   [ Ken Gilmer ]
