@@ -1,3 +1,11 @@
+whitesur-gtk-theme (1.2-2026.09.10) focal; urgency=medium
+
+  [ rego-port-bot ]
+  * feat: update to upstream release 2026-09-10
+  * fix: point Homepage and copyright Source at the upstream project
+
+ -- Regolith Linux <regolith.linux@gmail.com>  Sun, 08 Nov 2026 20:20:21 -0800
+
 whitesur-gtk-theme (1.1-2025.10.13) focal; urgency=medium
 
   [ Khosrow Moossavi ]

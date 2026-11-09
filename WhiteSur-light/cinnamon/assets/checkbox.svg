@@ -1,4 +1,4 @@
-<svg width="24" height="24" version="1.1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="24" height="24" version="1.1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
   <linearGradient id="j" x1="18" x2="32" y1="38.362" y2="38.362" gradientUnits="userSpaceOnUse">
    <stop stop-color="#0860f2" offset="0"/>
@@ -12,10 +12,10 @@
   <g transform="translate(19)">
    <g transform="translate(0,-30)">
     <rect x="17" y="30.362" width="16" height="16" color="#000000" fill="none"/>
-    <rect x="17" y="30.362" width="16" height="16" rx="2.2857" ry="2.2857" color="#000000" opacity=".12" style="paint-order:fill markers stroke"/>
-    <rect x="18" y="31.362" width="14" height="14" rx="2" ry="2" color="#000000" fill="url(#j)" style="paint-order:fill markers stroke"/>
-    <rect x="18" y="31.362" width="14" height="14" rx="2" ry="2" color="#000000" fill="#ffffff" opacity=".1" style="paint-order:fill markers stroke"/>
-    <rect x="18" y="32.362" width="14" height="13" rx="2" ry="1.8571" color="#000000" fill="url(#be)" style="paint-order:fill markers stroke"/>
+    <rect x="17" y="30.362" width="16" height="16" rx="4" ry="4" color="#000000" opacity=".12" style="paint-order:fill markers stroke"/>
+    <rect x="18" y="31.362" width="14" height="14" rx="3" ry="3" color="#000000" fill="url(#j)" style="paint-order:fill markers stroke"/>
+    <rect x="18" y="31.362" width="14" height="14" rx="3" ry="3" color="#000000" fill="#ffffff" opacity=".15" style="paint-order:fill markers stroke"/>
+    <rect x="18" y="32.362" width="14" height="13" rx="3" ry="3" color="#000000" fill="url(#be)" style="paint-order:fill markers stroke"/>
    </g>
   </g>
   <g transform="translate(36,-1036)">

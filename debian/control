@@ -4,7 +4,7 @@ Priority: optional
 Maintainer: Regolith Linux <regolith.linux@gmail.com>
 Build-Depends: debhelper (>= 10)
 Standards-Version: 4.1.2
-Homepage: https://github.com/3ximus/whitesur-gtk-theme
+Homepage: https://github.com/vinceliuice/WhiteSur-gtk-theme
 
 Package: whitesur-gtk-theme
 Architecture: any

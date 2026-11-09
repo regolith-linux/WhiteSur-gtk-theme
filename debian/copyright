@@ -1,6 +1,6 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: whitesur-gtk-theme
-Source: https://github.com/regolith-linux/whitesur-gtk-theme
+Source: https://github.com/vinceliuice/WhiteSur-gtk-theme
 
 Files: *
 Copyright: 2021 WhiteSur Developers
